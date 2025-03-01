@@ -1,0 +1,23 @@
+[
+    { "amount": 250, "category": "Food", "description": "Lunch at restaurant", "date": "2025-02-25" },
+    { "amount": 1000, "category": "Travel", "description": "Flight ticket", "date": "2025-02-24" },
+    { "amount": 500, "category": "Bills", "description": "Electricity bill", "date": "2025-02-23" },
+    { "amount": 120, "category": "Entertainment", "description": "Movie tickets", "date": "2025-02-22" },
+    { "amount": 40, "category": "Food", "description": "Coffee", "date": "2025-02-21" },
+    { "amount": 1500, "category": "Travel", "description": "Hotel booking", "date": "2025-02-20" },
+    { "amount": 200, "category": "Bills", "description": "Internet bill", "date": "2025-02-19" },
+    { "amount": 90, "category": "Food", "description": "Dinner", "date": "2025-02-18" },
+    { "amount": 250, "category": "Entertainment", "description": "Concert tickets", "date": "2025-02-17" },
+    { "amount": 80, "category": "Others", "description": "Miscellaneous", "date": "2025-02-16" },
+    { "amount": 100, "category": "Food", "description": "Grocery shopping", "date": "2025-02-15" },
+    { "amount": 300, "category": "Bills", "description": "Water bill", "date": "2025-02-14" },
+    { "amount": 700, "category": "Travel", "description": "Car rental", "date": "2025-02-13" },
+    { "amount": 50, "category": "Entertainment", "description": "", "date": "2025-02-12" },
+    { "amount": 180, "category": "Food", "description": "Dinner with friends", "date": "2025-02-11" },
+    { "amount": 900, "category": "Bills", "description": "Rent", "date": "2025-02-10" },
+    { "amount": 350, "category": "Others", "description": "Book purchase", "date": "2025-02-09" },
+    { "amount": 600, "category": "Food", "description": "Takeout meal", "date": "2025-02-08" },
+    { "amount": 110, "category": "Travel", "description": "Taxi fare", "date": "2025-02-07" },
+    { "amount": 50, "category": "Entertainment", "description": "Sports event", "date": "2025-02-06" }
+  ]
+  
